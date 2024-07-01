@@ -1,0 +1,14 @@
+{
+    "nome": "Bruno",
+    "idade": 30,
+    "esta_trabalhando": true,
+    "detalhes_profissao": {
+        "profissao":"Programador",
+        "empresa":"Usiminas"
+    },
+    "hobbies": [
+        "Programar",
+        "Correr",
+        "Ler"
+    ]
+}
